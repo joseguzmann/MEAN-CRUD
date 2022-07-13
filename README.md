@@ -1,5 +1,7 @@
 # CRUD MADE WITH ANGULAR, EXPRESS, NODE.JS AND MONGODB
 
+It has been made to Create, Remove, Update and Delete product registers trough a web graphical interface
+
 Front-end was Made with Angular
 
 Back-end API made with Express.js<br>

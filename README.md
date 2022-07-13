@@ -2,12 +2,12 @@
 
 Front-end was Made with Angular
 
-Back-end API made with Express.js
-API Endpoints:
-POST api/productos/
-GET api/productos/
-PUT api/productos/:id
-GET api/productos/:id
-DELETE api/productos/:id
+Back-end API made with Express.js<br>
+API Endpoints:<br>
+POST api/productos/<br>
+GET api/productos/<br>
+PUT api/productos/:id<br>
+GET api/productos/:id<br>
+DELETE api/productos/:id<br>
 
 API was made to be connected to a MongoDB database
